@@ -11,6 +11,7 @@ docker build -t repo/redis-server:latest .
  ```bash
 docker run b01f993c13df
 ```
+## OR
 > running "docker build -t repo/redis-server:latest ." will give you Successfully built b01f993c13df Successfully tagged repo/redis-server:latest.
  now to run it use
  ```bash
